@@ -3,3 +3,14 @@ Connecting to database specified by database.yml
 
 Started GET "/assets/rails.png" for 127.0.0.1 at 2014-03-08 22:13:12 -0600
 Served asset /rails.png - 200 OK (5ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2014-03-08 22:32:21 -0600
+Served asset /rails.png - 304 Not Modified (3ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2014-03-08 22:34:14 -0600
+Served asset /rails.png - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
