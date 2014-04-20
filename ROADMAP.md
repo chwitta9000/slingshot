@@ -2,7 +2,7 @@
 
 ## v0.0
 
-* User accounts / authentication 
+* User accounts / authentication (DONE)
 * Ability to drag and drop file and confirm you want to upload
 * Store uploads on AWS
 * Generates short link
