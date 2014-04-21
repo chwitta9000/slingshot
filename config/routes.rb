@@ -1,9 +1,9 @@
 Slingshot::Application.routes.draw do
+  resources :tickets
+
   devise_for :users
 
-  get "welcome/index"
-
-  get "welcome/about"
+  match "about" => 'welcome#about', via: :get
 
   root to: 'welcome#index'
 end
