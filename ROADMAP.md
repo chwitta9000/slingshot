@@ -14,7 +14,7 @@ Models:
 User has_many tickets
 Tickets has_many attachments
 
-Ticket
+Ticket (DONE)
   id
   title
   user_id
@@ -26,6 +26,12 @@ Attachment
   ticket_id
   pages
 
+
+
+Uploader:
+http://blueimp.github.io/jQuery-File-Upload/index.html
+https://github.com/blueimp/jQuery-File-Upload/wiki
+SEE THIS => http://railscasts.com/episodes/381-jquery-file-upload
 
 Stripe integration:
 https://stripe.com/docs/checkout/guides/rails
