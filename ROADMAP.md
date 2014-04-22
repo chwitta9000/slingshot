@@ -34,6 +34,7 @@ https://github.com/blueimp/jQuery-File-Upload/wiki
 SEE THIS => http://railscasts.com/episodes/381-jquery-file-upload
 
 Stripe integration:
+https://www.bloc.io/resources/stripe-integration
 https://stripe.com/docs/checkout/guides/rails
 
 Short link generator:

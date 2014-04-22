@@ -1,7 +1,9 @@
 <h1><%= @ticket.title %></h1>
 <h3><%= @ticket.description %></h3>
+
 <p><%= "Price: $#{@ticket.price}" %></p>
 <p><%= "Date: #{@ticket.date}" %></p>
 <p><%= "Time: #{@ticket.time}" %></p>
 
+<%= link_to "Edit Ticket Information", edit_ticket_path(@ticket), class: 'btn btn-info' %>
 
