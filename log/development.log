@@ -25931,3 +25931,807 @@ Served asset /tickets.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 17:28:31 -0500
 Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 22.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:48 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (0.1ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 16ms (Views: 14.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:49 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 19:26:50 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-22 19:29:04 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/2a7dd1ca25dceb84bd2978c5557606ad00a581ff/application.css.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/3ac6d2093b72a15004d73f57031866b45bc029f3/bootstrap.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_variables.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_mixins.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_hide-text.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_opacity.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_image.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_labels.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_reset-filter.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_resize.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_responsive-visibility.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_size.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_tab-focus.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_text-emphasis.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_text-overflow.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_vendor-prefixes.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_alerts.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_buttons.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_panels.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_pagination.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_list-group.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_nav-divider.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_forms.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_progress-bar.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_table-row.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_background-variant.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_border-radius.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_gradients.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_clearfix.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_center-block.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_nav-vertical-align.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_grid-framework.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/90ebb89971c7dcab6a47aea1108127f9b83c70c0/_grid.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_normalize.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_print.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_glyphicons.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_scaffolding.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_type.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_code.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_grid.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_tables.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_forms.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_buttons.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_component-animations.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_dropdowns.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_button-groups.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_input-groups.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_navs.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_navbar.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_pagination.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_pager.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_labels.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_badges.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_jumbotron.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_thumbnails.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_alerts.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_progress-bars.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_media.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_list-group.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_panels.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_responsive-embed.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_wells.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_close.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_modals.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_tooltip.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_popovers.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_carousel.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_utilities.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Warning. Error encountered while saving cache /Users/charleswhittaker/Code/slingshot/tmp/cache/sass/6c242ee894533ffb0de7bec7ea48fd3cdd3692ee/_responsive-utilities.scssc: can't dump anonymous class #<Class:0x007ff7fcdc7a70>
+
+Compiled application.css  (2109ms)  (pid 23735)
+Completed 200 OK in 2195ms (Views: 2195.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-22 19:29:06 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:06 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:06 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 19:29:06 -0500
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:06 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:06 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:06 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:06 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:07 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 12ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 19:29:08 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 21ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:18 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 12ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 13:06:56 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 13ms (Views: 12.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 13:07:54 -0500
+Served asset /application.js - 304 Not Modified (0ms)
