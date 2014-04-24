@@ -23,5 +23,18 @@ class TicketsController < ApplicationController
   end
 
   def edit
+    @ticket = Ticket.find(params[:id])
   end
+
+  def update
+    @ticket = Ticket.find(params[:id])
+    if @ticket.update_attributes(params[:ticket])
+      flash[:notice] = "Ticket successfully updated."
+      redirect_to @ticket
+    else
+      flash[:error] = "There was an error saving your ticket.  Please try again."
+      render :edit
+    end
+  end
+
 end

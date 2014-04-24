@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20140420191346) do
+ActiveRecord::Schema.define(:version => 20140423181455) do
 
   create_table "tickets", :force => true do |t|
     t.integer  "user_id"
@@ -22,6 +22,7 @@ ActiveRecord::Schema.define(:version => 20140420191346) do
     t.string   "description"
     t.datetime "created_at",  :null => false
     t.datetime "updated_at",  :null => false
+    t.string   "stub"
   end
 
   add_index "tickets", ["user_id"], :name => "index_tickets_on_user_id"
