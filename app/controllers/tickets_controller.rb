@@ -13,7 +13,7 @@ class TicketsController < ApplicationController
 
   def create
     @ticket = Ticket.new(params[:ticket])
-    if @ticket.save
+    if @ticket.save!
       flash[:notice] = "Ticket was saved successfully."
       redirect_to @ticket
     else

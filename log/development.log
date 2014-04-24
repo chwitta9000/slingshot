@@ -32654,3 +32654,4447 @@ Served asset /welcome.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 15:49:29 -0500
 Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 18ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:09:17 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (14.4ms)
+Completed 200 OK in 172ms (Views: 110.1ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /bootstrap.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:13:16 -0500
+Served asset /application.js - 304 Not Modified (54ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:13:59 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"New ticket test", "description"=>"sldkfj", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"13", "price"=>"99.99", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007f925f830178 @original_filename="Netpen Methodology.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"Netpen Methodology.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-46952-1fzlgqu>>}, "commit"=>"Save Ticket"}
+Completed 500 Internal Server Error in 8ms
+
+NoMethodError (undefined method `size' for nil:NilClass):
+  app/controllers/tickets_controller.rb:15:in `new'
+  app/controllers/tickets_controller.rb:15:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.8ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.2ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (10.6ms)
+Completed 200 OK in 137ms (Views: 77.9ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /bootstrap.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /welcome.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:16:52 -0500
+Served asset /application.js - 304 Not Modified (56ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:17:22 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"Upload test ticket", "description"=>"description", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"16", "price"=>"99.99", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fc78d06a4d0 @original_filename="SmartCalcQuestionnaire.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"SmartCalcQuestionnaire.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-47774-1hilhfr>>}, "commit"=>"Save Ticket"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered tickets/new.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 134ms (Views: 20.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:17:23 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"Upload test ticket", "description"=>"description", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"16", "price"=>"99.99"}, "commit"=>"Save Ticket"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (1.4ms)[0m  INSERT INTO "tickets" ("created_at", "date", "description", "price", "stub", "time", "title", "updated_at", "user_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Thu, 24 Apr 2014 21:18:05 UTC +00:00], ["date", Thu, 24 Apr 2014], ["description", "description"], ["price", #<BigDecimal:7fc78ada5788,'0.9999E2',18(18)>], ["stub", nil], ["time", 2014-04-24 21:16:00 UTC], ["title", "Upload test ticket"], ["updated_at", Thu, 24 Apr 2014 21:18:05 UTC +00:00], ["user_id", nil]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/tickets/3
+Completed 302 Found in 15ms (ActiveRecord: 2.6ms)
+
+
+Started GET "/tickets/3" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mTicket Load (0.2ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "3"]]
+  Rendered tickets/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 79ms (Views: 76.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:05 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (0.1ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:27 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:18:28 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:18:54 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"Check ticket upload", "description"=>"Again!", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"18", "price"=>"45.55", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fc788e66138 @original_filename="SmartCalcQuestionnaire.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"SmartCalcQuestionnaire.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-47774-1bzmfl5>>}, "commit"=>"Save Ticket"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Completed 422 Unprocessable Entity in 64ms
+
+ActiveRecord::RecordInvalid (Validation failed: Stub Failed to manipulate with MiniMagick, maybe it is not an image? Original Error: Command ("identify -quiet -ping /var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/mini_magick20140424-47774-1v2p6oe.pdf") failed: {:status_code=>1, :output=>"identify: Postscript delegate failed `/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/mini_magick20140424-47774-1v2p6oe.pdf': No such file or directory @ error/pdf.c/ReadPDFImage/682.\n"}):
+  app/controllers/tickets_controller.rb:16:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.9ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:19:40 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"Check ticket upload", "description"=>"Again!", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"18", "price"=>"45.55", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fc7892e6280 @original_filename="P1010001.JPG", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"P1010001.JPG\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-47774-1ux1set>>}, "commit"=>"Save Ticket"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "tickets" ("created_at", "date", "description", "price", "stub", "time", "title", "updated_at", "user_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Thu, 24 Apr 2014 21:19:41 UTC +00:00], ["date", Thu, 24 Apr 2014], ["description", "Again!"], ["price", #<BigDecimal:7fc78aaf9098,'0.4555E2',18(18)>], ["stub", "P1010001.JPG"], ["time", 2014-04-24 21:18:00 UTC], ["title", "Check ticket upload"], ["updated_at", Thu, 24 Apr 2014 21:19:41 UTC +00:00], ["user_id", nil]]
+  [1m[35m (8.2ms)[0m  commit transaction
+Redirected to http://localhost:3000/tickets/4
+Completed 302 Found in 2250ms (ActiveRecord: 8.9ms)
+
+
+Started GET "/tickets/4" for 127.0.0.1 at 2014-04-24 16:19:42 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mTicket Load (0.1ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "4"]]
+  Rendered tickets/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:19:43 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/tickets" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (0.1ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 23ms (Views: 21.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:04 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:20:05 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (16.7ms)
+Completed 200 OK in 29ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:05 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:05 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:05 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:05 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:05 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:20:05 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:05 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:06 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:20:38 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"PDF ticket test", "description"=>"whatever", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"20", "price"=>"99.00", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fc788bfd770 @original_filename="SmartCalcQuestionnaire.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"SmartCalcQuestionnaire.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-47774-1cjm93z>>}, "commit"=>"Save Ticket"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Completed 422 Unprocessable Entity in 53ms
+
+ActiveRecord::RecordInvalid (Validation failed: Stub Failed to manipulate with MiniMagick, maybe it is not an image? Original Error: Command ("identify -quiet -ping /var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/mini_magick20140424-47774-1jdvjue.pdf") failed: {:status_code=>1, :output=>"identify: Postscript delegate failed `/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/mini_magick20140424-47774-1jdvjue.pdf': No such file or directory @ error/pdf.c/ReadPDFImage/682.\n"}):
+  app/controllers/tickets_controller.rb:16:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.8ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 36ms (Views: 26.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:20:58 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:23:18 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 158ms (Views: 98.2ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:18 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:23:18 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:18 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:18 -0500
+Served asset /jquery.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:18 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:18 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:18 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /bootstrap.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /welcome.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:23:19 -0500
+Served asset /application.js - 304 Not Modified (63ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:23:47 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"PDF test", "description"=>"This will work", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"23", "price"=>"19.99", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fc8526369c0 @original_filename="SmartCalcQuestionnaire.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"SmartCalcQuestionnaire.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48365-11tfh>>}, "commit"=>"Save Ticket"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Completed 422 Unprocessable Entity in 9ms
+
+ActiveRecord::RecordInvalid (Validation failed: Stub You are not allowed to upload "pdf" files, allowed types: jpg, jpeg, gif, png):
+  app/controllers/tickets_controller.rb:16:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (17.3ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 38ms (Views: 30.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:24:09 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:24:31 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"PDF test again", "description"=>"this has to work", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"24", "price"=>"50.00", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fc8520ef9d0 @original_filename="Website Changes_2.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"Website Changes_2.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48365-oh35bo>>}, "commit"=>"Save Ticket"}
+Completed 500 Internal Server Error in 438ms
+
+ArgumentError (invalid byte sequence in UTF-8):
+  app/controllers/tickets_controller.rb:15:in `new'
+  app/controllers/tickets_controller.rb:15:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.9ms)
+Connecting to database specified by database.yml
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:26:47 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"PDF test again", "description"=>"this has to work", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"24", "price"=>"50.00", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fa9a1f7c400 @original_filename="Website Changes_2.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"Website Changes_2.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48383-g7aha5>>}, "commit"=>"Save Ticket"}
+Completed 500 Internal Server Error in 461ms
+
+ArgumentError (invalid byte sequence in UTF-8):
+  app/controllers/tickets_controller.rb:15:in `new'
+  app/controllers/tickets_controller.rb:15:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.8ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:27:12 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"PDF test again", "description"=>"this has to work", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"24", "price"=>"50.00", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fa9a1d8a3e0 @original_filename="SmartCalcQuestionnaire.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"SmartCalcQuestionnaire.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48383-uhkc6y>>}, "commit"=>"Save Ticket"}
+Completed 500 Internal Server Error in 713ms
+
+ArgumentError (invalid byte sequence in UTF-8):
+  app/controllers/tickets_controller.rb:15:in `new'
+  app/controllers/tickets_controller.rb:15:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:28:23 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"PDF test again", "description"=>"this has to work", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"24", "price"=>"50.00", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fa9a241d1d0 @original_filename="SmartCalcQuestionnaire.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"SmartCalcQuestionnaire.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48383-ipdy9b>>}, "commit"=>"Save Ticket"}
+Completed 500 Internal Server Error in 731ms
+
+ArgumentError (invalid byte sequence in UTF-8):
+  app/controllers/tickets_controller.rb:15:in `new'
+  app/controllers/tickets_controller.rb:15:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:29:02 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"PDF test again", "description"=>"this has to work", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"24", "price"=>"50.00", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fa9a258f8d8 @original_filename="SmartCalcQuestionnaire.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"SmartCalcQuestionnaire.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48383-1ef2uc2>>}, "commit"=>"Save Ticket"}
+Completed 500 Internal Server Error in 745ms
+
+ArgumentError (invalid byte sequence in UTF-8):
+  app/controllers/tickets_controller.rb:15:in `new'
+  app/controllers/tickets_controller.rb:15:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.7ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (17.5ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:30:23 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"PDF test again", "description"=>"this has to work", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"24", "price"=>"50.00", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fa9a13ace18 @original_filename="BIXGQuickReference.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"BIXGQuickReference.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48383-seqbvn>>}, "commit"=>"Save Ticket"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (1.3ms)[0m  INSERT INTO "tickets" ("created_at", "date", "description", "price", "stub", "time", "title", "updated_at", "user_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Thu, 24 Apr 2014 21:30:33 UTC +00:00], ["date", Thu, 24 Apr 2014], ["description", "this has to work"], ["price", #<BigDecimal:7fa9a2396e28,'0.5E2',9(18)>], ["stub", "BIXGQuickReference.pdf"], ["time", 2014-04-24 21:24:00 UTC], ["title", "PDF test again"], ["updated_at", Thu, 24 Apr 2014 21:30:33 UTC +00:00], ["user_id", nil]]
+  [1m[36m (8.1ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/tickets/5
+Completed 302 Found in 11906ms (ActiveRecord: 9.5ms)
+
+
+Started GET "/tickets/5" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[35mTicket Load (0.2ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "5"]]
+  Rendered tickets/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 113ms (Views: 110.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /application.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /jquery.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /bootstrap.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /application.js - 304 Not Modified (64ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:35 -0500
+Served asset /welcome.js - 304 Not Modified (1ms)
+
+
+Started GET "/tickets/5/edit" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Processing by TicketsController#edit as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mTicket Load (0.2ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "5"]]
+  Rendered tickets/edit.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 32ms (Views: 27.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:43 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/new.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 20ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:30:54 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:31:19 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"foooo", "description"=>"asfd;ljasdf;jd", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"30", "price"=>"800", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fa9a1c53580 @original_filename="SmartCalcQuestionnaire.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"SmartCalcQuestionnaire.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48383-qw0rr1>>}, "commit"=>"Save Ticket"}
+Completed 500 Internal Server Error in 705ms
+
+ArgumentError (invalid byte sequence in UTF-8):
+  app/controllers/tickets_controller.rb:15:in `new'
+  app/controllers/tickets_controller.rb:15:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.2ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:34:08 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"foooo", "description"=>"asfd;ljasdf;jd", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"30", "price"=>"800", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fa9a2467b68 @original_filename="Netpen Methodology.pdf", @content_type="application/pdf", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"Netpen Methodology.pdf\"\r\nContent-Type: application/pdf\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48383-182qlw8>>}, "commit"=>"Save Ticket"}
+Completed 500 Internal Server Error in 1414ms
+
+FloatDomainError (Infinity):
+  app/controllers/tickets_controller.rb:15:in `new'
+  app/controllers/tickets_controller.rb:15:in `create'
+
+
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/charleswhittaker/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2014-04-24 16:34:37 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CndWoF9mIu/BRYFVeI7Hff8sW6520DXI6Bm+DOAi67o=", "ticket"=>{"title"=>"foooo", "description"=>"asfd;ljasdf;jd", "date(2i)"=>"4", "date(3i)"=>"24", "date(1i)"=>"2014", "time(1i)"=>"2014", "time(2i)"=>"4", "time(3i)"=>"24", "time(4i)"=>"21", "time(5i)"=>"30", "price"=>"800", "stub"=>#<ActionDispatch::Http::UploadedFile:0x007fa9a13d6a88 @original_filename="DSC_0003.JPG", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"ticket[stub]\"; filename=\"DSC_0003.JPG\"\r\nContent-Type: image/jpeg\r\n", @tempfile=#<Tempfile:/var/folders/cg/jlnqh6wx395_6r341gkbfcm80000gp/T/RackMultipart20140424-48383-1gpa2pu>>}, "commit"=>"Save Ticket"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "tickets" ("created_at", "date", "description", "price", "stub", "time", "title", "updated_at", "user_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Thu, 24 Apr 2014 21:34:38 UTC +00:00], ["date", Thu, 24 Apr 2014], ["description", "asfd;ljasdf;jd"], ["price", #<BigDecimal:7fa9a1ece440,'0.8E3',9(18)>], ["stub", "DSC_0003.JPG"], ["time", 2014-04-24 21:30:00 UTC], ["title", "foooo"], ["updated_at", Thu, 24 Apr 2014 21:34:38 UTC +00:00], ["user_id", nil]]
+  [1m[35m (7.9ms)[0m  commit transaction
+Redirected to http://localhost:3000/tickets/6
+Completed 302 Found in 2915ms (ActiveRecord: 8.5ms)
+
+
+Started GET "/tickets/6" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mTicket Load (0.1ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "6"]]
+  Rendered tickets/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /application.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:40 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/6/edit" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Processing by TicketsController#edit as HTML
+  Parameters: {"id"=>"6"}
+  [1m[35mTicket Load (0.2ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "6"]]
+  Rendered tickets/edit.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 20ms (Views: 18.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:34:43 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/6/edit" for 127.0.0.1 at 2014-04-24 16:35:05 -0500
+Processing by TicketsController#edit as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mTicket Load (0.1ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "6"]]
+  Rendered tickets/edit.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 72ms (Views: 70.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:35:06 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:35 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:41:36 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (1.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 99ms (Views: 82.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:36 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:37 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (0.1ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 26ms (Views: 15.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:52 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTicket Load (0.2ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered tickets/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 24ms (Views: 16.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:41:54 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-24 16:42:27 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 77ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:28 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:42:29 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 36ms (Views: 15.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:30 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.erb (0.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:42:31 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:45 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 19ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:46 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:47 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 16ms (Views: 16.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:51 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:56 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:57 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 14ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:58 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 13ms (Views: 12.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 14ms (Views: 13.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:43:59 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:44:00 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:44:00 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:00 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:00 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:01 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:02 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:03 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:05 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:06 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (0.1ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 21ms (Views: 13.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:07 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:44:10 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:16 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:18 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:49:38 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:49:38 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:38 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:38 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:39 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (1.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 139ms (Views: 86.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /bootstrap.js - 304 Not Modified (46ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /welcome.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:52 -0500
+Served asset /application.js - 304 Not Modified (9ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:54 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.erb (0.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 20ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:56 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-24 16:49:57 -0500
+Served asset /application.js - 304 Not Modified (0ms)
