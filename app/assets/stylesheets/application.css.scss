@@ -1,4 +1,6 @@
 @import "bootstrap";
+@import "typography";
+@import "buttons";
 
 .user-info {
   margin-top: 9px;
@@ -11,21 +13,9 @@
 
 .jumbotron {
   text-align: center;
+  background-color: inherit;
 }
 
 .container {
 	width: 768px;
-}
-
-.footer {
-	padding-top: 19px;
-	color: #777;
-	border-top: 2px solid #e5e5e5;
-	bottom: 0px;
-	position: absolute;
-}
-
-.save {
-	padding-top: 10px;
-	padding-bottom: 10px;
 }

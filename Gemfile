@@ -24,7 +24,12 @@ group :assets do
 end
 
 gem 'jquery-rails'
+
+# User authentication
 gem 'devise'
+gem 'cancan'
+
+# Image uploads
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'fog'
