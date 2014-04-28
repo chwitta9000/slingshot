@@ -5,5 +5,6 @@
 <p><%= "Date: #{@ticket.date}" %></p>
 <p><%= "Time: #{@ticket.time}" %></p>
 
-<%= link_to "Edit Ticket Information", edit_ticket_path(@ticket), class: 'btn btn-primary save' %>
-
+<% if can? :edit, @ticket %>
+	<%= link_to "Edit Ticket Information", edit_ticket_path(@ticket), class: 'btn btn-primary save' %>
+<% end %>

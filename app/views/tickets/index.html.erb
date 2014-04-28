@@ -1,8 +1,10 @@
 <div class="row">
 	<div class="col-md-6">
 		<h2>Tickets For Sale</h2>
-		<%= link_to "Sell Ticket", new_ticket_path, class: 'btn btn-primary' %>
-	</div>
+    <% if can? :create, Ticket %>
+		  <%= link_to "Sell Ticket", new_ticket_path, class: 'btn btn-primary' %>
+    <% end %>
+  </div>
 </div>
 
 <% @tickets.each do |ticket| %>
