@@ -5,8 +5,8 @@
 * User accounts / authentication (DONE)
 * Ability to drag and drop file and confirm you want to upload
 * Store uploads on AWS (DONE)
-* Can-can
-* Have tickets belong to user
+* Can-can (DONE)
+* Have tickets belong to user (DONE)
 
 * Generates short link
 * Integrate with Stripe so that if the link is clicked, it triggers a Stripe transaction
@@ -23,6 +23,11 @@ Stripe integration:
 https://www.bloc.io/resources/stripe-integration
 https://stripe.com/docs/checkout/guides/rails
 
+-> User buys ticket and stripes money to your account
+
+-> Chron job, to periodically pay sellers
+
+-> Give tickets sold and paid booleans to indicate their status
 Short link generator:
 https://github.com/philnash/bitly
 

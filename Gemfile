@@ -35,6 +35,11 @@ gem 'mini_magick'
 gem 'fog'
 gem 'figaro'
 
+# Payment stuff
+gem 'stripe'
+
+gem 'haml'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

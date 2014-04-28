@@ -1,0 +1,11 @@
+.row
+ .col-md-6
+  .h2.thin-weight Tickets For Sale
+  -if can? :create, Ticket
+   %p= link_to "Sell Ticket", new_ticket_path, class: 'btn btn-primary sell'
+
+- @tickets.each do |ticket|
+ .media
+  .media-body
+   .h4.media-heading
+    .p= link_to "#{ticket.date}: #{ticket.title}", ticket

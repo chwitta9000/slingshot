@@ -1,0 +1,35 @@
+.row
+  %h1 Edit Your Ticket
+  .col-mid-6
+    = form_for @ticket, html: { class: 'form-horizontal' } do |t|
+      .control-group
+        = t.label :title, class: 'control-label'
+        .controls
+          = t.text_field :title
+      .control-group
+        = t.label :description, class: 'control-label'
+        .controls
+          = t.text_field :description
+      .control-group
+        = t.label :date, class: 'control-label'
+        .controls
+          = t.date_select(:date, :order => [:month, :day, :year])
+      .control-group
+        = t.label :time, class: 'control-label'
+        .controls
+          = t.time_select :time
+          %p
+            %small All times in CST
+      .control-group
+        = t.label :price, class: 'control-label'
+        .controls
+          = t.text_field :price, :class => 'price', :value => (number_with_precision(t.object.price, :precision  => 2)|| 0)
+          %p
+            %small Example: 49.99
+      .control-group
+        = t.label :stub, class: 'control-label'
+        .controls
+          = t.file_field :stub
+      .control-group.save
+        .controls
+          = t.submit "Save Ticket", class: 'btn'

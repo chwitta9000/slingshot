@@ -13,7 +13,7 @@ class TicketsController < ApplicationController
   end
 
   def create
-    @ticket = Ticket.new(params[:ticket])
+    @ticket = current_user.tickets.build(params[:ticket])
     authorize! :create, @post, message: "You need to be a member to sell a ticket."
     if @ticket.save!
       flash[:notice] = "Ticket was saved successfully."
