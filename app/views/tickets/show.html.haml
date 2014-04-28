@@ -7,5 +7,5 @@
 .p= "Time: #{@ticket.time}"
 
 -if can? :edit, @ticket
-	%p= link_to "Edit Ticket Information", edit_ticket_path(@ticket), class: 'btn'
+	%p= link_to "Edit Ticket Information", edit_ticket_path(@ticket), class: 'btn btn-info save'
 
