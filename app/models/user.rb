@@ -12,15 +12,14 @@ class User < ActiveRecord::Base
   attr_accessible :email, :password, :password_confirmation, :remember_me
   # attr_accessible :title, :body
 
-	ROLES = %w[member moderator admin]
-	def role?(base_role)
-	  role.nil? ? false : ROLES.index(base_role.to_s) <= ROLES.index(role)
-	end
+ROLES = %w[member moderator admin]
+  def role?(base_role)
+    role.nil? ? false : ROLES.index(base_role.to_s) <= ROLES.index(role)
+  end
 
+  private
 
-private
-
-	def set_member
-		self.role = 'member'
-	end
-end
+  def set_member
+    self.role = 'member'
+  end
+ end
