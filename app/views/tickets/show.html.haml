@@ -8,4 +8,7 @@
 
 -if can? :edit, @ticket
 	%p= link_to "Edit Ticket Information", edit_ticket_path(@ticket), class: 'btn btn-info save'
-
+-elsif current_user
+	%p= link_to "Buy Ticket", new_charge_path, class: 'btn btn-success save'
+-else
+	%p= link_to "Sign in to Buy!", new_user_session_path, class: 'btn btn-success save'

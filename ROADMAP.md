@@ -26,6 +26,9 @@ https://stripe.com/docs/checkout/guides/rails
 -> User buys ticket and stripes money to your account
 
 -> Chron job, to periodically pay sellers
+https://github.com/javan/whenever
+http://railscasts.com/episodes/164-cron-in-ruby
+
 
 -> Give tickets sold and paid booleans to indicate their status
 Short link generator:
@@ -33,3 +36,5 @@ https://github.com/philnash/bitly
 
 Styling:
 http://www.blacktie.co/
+
+Facebook & Google signin

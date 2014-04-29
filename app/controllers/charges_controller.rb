@@ -1,7 +1,9 @@
 class ChargesController < ApplicationController
   def create
 
-    @amount = params[:amount]
+    @amount = 9000
+    # params[:amount]
+    # p params
 
     # Creates a Stripe Customer object, for associating
     # with the charge
@@ -14,12 +16,12 @@ class ChargesController < ApplicationController
     charge = Stripe::Charge.create(
       customer: customer.id, # Note -- this is NOT the user_id in your app
       amount: @amount,
-      description: "BigMoney Membership - #{current_user.full_name}",
+      description: "BigMoney Membership - #{current_user.display_name}",
       currency: 'usd'
     )
 
-    flash[:success] = "Thanks for all the money, #{current_user.first_name}! Feel free to pay me again."
-    redirect_to user_path(current_user) # or wherever
+    # flash[:succ= ss] = "Thanks for all the money, #{current_user.display_name}! Feel free to pay me again."
+    redirect_to new_charge_path , notice: "Thanks for all the money, #{current_user.display_name}! Feel free to pay me again."
 
   # Stripe will send back CardErrors, with friendly messages
   # when something goes wrong.
@@ -36,8 +38,8 @@ class ChargesController < ApplicationController
       class: 'stripe-button',
       data: {
         key: "#{ Rails.configuration.stripe[:publishable_key] }",
-        description: "BigMoney Membership - #{current_user.name}",
-        amount: 9_000_000_000_00 
+        description: "BigMoney Membership - #{current_user.display_name}",
+        amount: 9_000 
         # We're like the Snapchat for Wikipedia. But really, 
         # change this amount. Stripe won't charge $9 billion.
       }
