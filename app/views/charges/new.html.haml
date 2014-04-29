@@ -1,5 +1,5 @@
 = form_tag charges_path do
  = hidden_field_tag :amount, @stripe_btn_hash[:data][:amount]
 
- %h4 Ready to buy the ticket?
+ %h2.thin-weight Ready to buy your ticket?
  %script{ @stripe_btn_hash }
